@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124341554764",
+    "firebase_url": "https://swatidemo-1321f.firebaseio.com",
+    "project_id": "swatidemo-1321f",
+    "storage_bucket": "swatidemo-1321f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124341554764:android:00759efc517090f0",
+        "android_client_info": {
+          "package_name": "com.firebasedbManage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124341554764-j04a4qok82a5tmpl78va26m4cn2f331b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasedbManage",
+            "certificate_hash": "14489aa9590e17a7c3691654eeeff6889b4ef036"
+          }
+        },
+        {
+          "client_id": "124341554764-5lcoin6c0h0t7fkbuvba45nie027v7u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCreXYhP2ywn3e6-4GeCJ9XidkxjPJi4fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124341554764-5lcoin6c0h0t7fkbuvba45nie027v7u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
